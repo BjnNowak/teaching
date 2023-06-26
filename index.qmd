@@ -1,7 +1,4 @@
 ---
-project:
-  type: website
-  output-dir: docs
 title: "index"
 format: html
 editor: visual
